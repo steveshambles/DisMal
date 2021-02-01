@@ -1,0 +1,100 @@
+
+DISMAL
+
+A simple disposable Email GUI.
+Freeware by Steve Shambles 2021.
+-----------------------------------------------
+This software is in no way associated with
+mailinator.com. The point of this app is 
+purely a personal programming exercise.
+------------------------------------------------
+
+Introduction:
+--------------
+The point of a disposable email address is to use it
+when you are forced to sign up at rubbish websites
+to get to their contents, or whatever.
+
+In using a disposable email address you do not reveal
+your real Email address, which will probably save you
+lots of Spam when that Email address is shared, or sold,
+to advertisers.
+
+You can receive the rubbish websites code or 
+link to verify it is your address.
+
+You can click on links and copy codes from the messages
+you receive, but see later on what you can't do.
+
+Never use a disposable Email for serious and genuine stuff,
+this is designed for shitty sites you'll most likely never
+have any contact with again, like my Blog for example!
+
+How to:
+------- 
+To create a quick, free, anonymous email address,
+run Dismal and type your choice of user name into
+the entry box, (absolutely anything will do)
+and then click the "Create Email" button.
+
+If you prefer, you can leave the entry box blank 
+and Dismal will create a randomly generated name
+for you.
+
+For example, if you typed in "shambles", Dismal
+would create an Email address for you of:
+
+shambles@mailinator.com
+
+Your new E-mail address will now appear in Dismal's
+list box.
+
+Right-clicking on an Email address in the listbox will
+offer you a variety of self-explanatory options.
+
+'Open inbox'
+'Copy address to clipboard'
+'Delete this address'
+'Delete all addresses'
+'Open all addresses in a text file'
+'Visit mailinator.com'
+'Help'
+
+Please note that your addresses can be accessed by anyone. 
+
+Note: If you choose a common word like "peter" for example
+      you should expect to be sharing that address with 
+      a lot of others peters!
+
+Note: Any messages you receive are auto deleted 
+      after a short time, usually a few hours.
+	  
+Note: Anyone can read and delete your messages.
+
+Note: You can only receive, you cannot send
+      or reply to messages.
+	  
+
+Quote from my original Blog post on Dismal from 2018:
+======================================================
+"What Dismal creates is a public email address,
+and your address may be shared by lots of other people that
+have decided to use the same user name as you.
+
+Yes it’s a bit weird, but it’s free.
+You can go private, but it will cost ya my darling.
+
+It goes without saying, but I’m going to say it anyway,
+that you should only use these public Emails for rubbish
+sign ups, nothing personal or private, the point of the
+system is to avoid Spam, use and forget.
+
+It would therefore make sense not to use a simple word,
+like ‘hunter’ for example, there is bound to be someone else 
+using a common word like that, so use something  not so guessable
+like, ‘x77freiov8’ and most likely you will be the only one using
+that address."
+
+https://stevepython.wordpress.com/2018/10/04/python-project-dismal/
+
+Steve Shambles Feb 2021
