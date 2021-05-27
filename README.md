@@ -1,5 +1,7 @@
 # DisMal
-A GUI for creating and using disposable email addresses.
+A GUI for creating, using and keeping track of disposable email addresses.
+
+For Windows and Linux. 
 
 ![Alt text](https://i.postimg.cc/pXk2hhs0/dismal-screenshot-2w.png)
 
